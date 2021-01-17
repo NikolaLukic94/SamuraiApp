@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZ7WEnotx6qjcU2i6ifBdPmtmEwuEXL/2Wk8qmPqISXq88lD2ZLoy7LJcfC2S0IjyoOR6y7P7l+9z3jugyvAaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Administrator\\source\\repos\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
